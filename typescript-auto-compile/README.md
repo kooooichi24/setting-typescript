@@ -92,7 +92,7 @@ npx tsc --init --rootDir src --outDir dist --esModuleInterop --resolveJsonModule
 
 各オプションの詳細は`tsconfig.json`のコメントアウトを確認してください
 
-### 自動コンパイルと実行
+### 3. 自動コンパイルと実行
 
 #### インストール
 
@@ -118,7 +118,7 @@ npm install nodemon --save-dev
 },
 ```
 
-### 実行
+### 4. 実行
 
 ```bash
 npm run build:live
