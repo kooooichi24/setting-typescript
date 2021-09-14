@@ -117,3 +117,10 @@ npm install nodemon --save-dev
   "build:live": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts"
 },
 ```
+
+### 実行
+
+```bash
+npm run build:live
+# yarn build:live
+```
